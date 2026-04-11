@@ -337,7 +337,7 @@ button{
     height: 100%;
     top: 0;
     left: 0;
-    background-image: url('/icons/back-icon.svg');
+    background-image: url('../icons/back-icon.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -360,9 +360,9 @@ button{
     z-index: 1; 
 }
 
-.card_icon-member1::after { background-image: url('/icons/members.svg'); }
-.card_icon-member2::after { background-image: url('/icons/building.svg'); }
-.card_icon-member3::after { background-image: url('/icons/hadns.svg'); }
+.card_icon-member1::after { background-image: url('../icons/members.svg'); }
+.card_icon-member2::after { background-image: url('../icons/building.svg'); }
+.card_icon-member3::after { background-image: url('../icons/hadns.svg'); }
 
 .community__card__title{
     font-size: 24px;
