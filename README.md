@@ -4,10 +4,12 @@ A responsive SaaS landing page with a working, client-side member management das
 ![Hero section screenshot](./screenshots/hero.png)
 
 Live Demo
-Live URL: https://aj23act.github.io/nexcent/
-Repository: https://github.com/aj23act/nexcent
+Live URL: https://aj23act.github.io/nexcent-landing-page/
+Repository: https://github.com/aj23act/nexcent-landing-page
 Features
+
 ![Dashboard screenshot](./screenshots/dashboard.png)
+
 Interactive Dashboard
 Add, toggle status, and delete members through an accessible modal form.
 Live search (by name/email) and filter by organisation type.
@@ -34,8 +36,8 @@ Running Locally
 No build step required.
 
 bash
-git clone https://github.com/your-username/nexcent.git
-cd nexcent
+git clone https://github.com/aj23act/nexcent-landing-page.git
+cd nexcent-landing-page
 
 Then just open index.html in a browser, or serve the folder with any static server, e.g.:
 
